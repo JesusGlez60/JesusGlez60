@@ -1,7 +1,9 @@
-Buen día! 
+![](https://images.cooltext.com/5508812.png)
+
+Buen día! 👋
 
 Gracias por visitar el perfil de Jesus Gonzalez
 
 Alumno de ingeniería en sistemas en el Tecnológico de Tijuana de 10mo semestre
 
-Repositorio creado para la materia de sistemas programables
+Repositorio creado para la materia de sistemas programables 👨‍🏫
